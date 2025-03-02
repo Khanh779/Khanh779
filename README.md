@@ -4,8 +4,8 @@
 <a href="#">![Achievements](https://github-readme-stats.vercel.app/api?username=Khanh779&theme=holi&count_private=true&hide_border=true&rank_icon=github&line_height=20)</a>
 <a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanh779&layout=compact&theme=holi&count_private=true&hide_border=true)</a>
 
-![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/nord_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/city_lights/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/city_lights/3-stats.svg)
+![](https://raw.githubusercontent.com/Khanh779/Khanh779/main/profile-summary-card-output/city_lights/4-productive-time.svg)
