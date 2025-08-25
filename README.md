@@ -28,12 +28,11 @@
 <a href="#">![Achievements](https://github-readme-stats.vercel.app/api?username=Khanh779-9&theme=calm&count_private=true&hide_border=true&rank_icon=github&line_height=20)</a>
 <a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanh779-9&layout=compact&theme=calm&count_private=true&hide_border=true)</a>
 
----
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Khanh779-9&theme=calm)](https://git.io/streak-stats)
 
-</div>
 ---
+
+</div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with Me
 <p align="center">
