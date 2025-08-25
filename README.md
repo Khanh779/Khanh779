@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/city_lights/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/city_lights/3-stats.svg)
