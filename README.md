@@ -17,6 +17,8 @@
 - :monocle_face: Interested in coding, exploring new tech, and watching films
 - :sunglasses: Quote: ***"Keep learning, keep growing"*** 
 
+
+<br>
 <br>
 
 ---
