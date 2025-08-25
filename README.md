@@ -9,7 +9,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Tran Khanh** <img src="Gifs/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" align="right"/>
+- :credit_card: My full name is **Tran Khanh** <img src="Gifs/81178b47a8598f0c81c4799f2cdd4057.gif" width="320" align="right"/>
 - :school: I'm currently a student
 - :books: My major is related to **Software / IT field**
 - :earth_asia: I'm living in **Viet Nam**
